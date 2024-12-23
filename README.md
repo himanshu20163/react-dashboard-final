@@ -52,8 +52,8 @@ Follow these steps to run the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/react-chart-dashboard.git
-   cd react-chart-dashboard
+   git clone https://github.com/himanshu20163/react-dashboard-final
+   cd react-dashboard-final
    ```
 
 2. Install the dependencies:
